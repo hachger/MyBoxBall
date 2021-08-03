@@ -35,6 +35,7 @@ QForm1::QForm1(QWidget *parent)
 
     QTimer1->start(20);
 
+    //Something
     Label1 = new QLabel();
     Label1->size().setWidth(100);
     Label1->setAlignment(Qt::AlignCenter);
